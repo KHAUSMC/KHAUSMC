@@ -34,6 +34,11 @@ As a **U.S. Marine Corps veteran with 4 years of service**, I developed **strong
 
 My experience in **handling sensitive data, ensuring compliance, and optimizing workflows** has strengthened my passion for **cybersecurity, risk management, and software development**. I am now applying these skills in my transition to the **cybersecurity field**, pursuing the **Google Cybersecurity Certificate** to further develop my expertise in **threat detection, network security, and ethical hacking**.
 
+🎓 Licenses & Certifications
+📜 Codecademy Certifications:
+Python 3 course <a href="https://www.linkedin.com/in/khadim-diop-9716802b1/details/certifications/" target="_blank">View Certifications</a>
+
+
 🛠 Projects
 
 🔹 Linux File Permissions & Security
