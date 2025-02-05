@@ -34,6 +34,17 @@ As a **U.S. Marine Corps veteran with 4 years of service**, I developed **strong
 
 My experience in **handling sensitive data, ensuring compliance, and optimizing workflows** has strengthened my passion for **cybersecurity, risk management, and software development**. I am now applying these skills in my transition to the **cybersecurity field**, pursuing the **Google Cybersecurity Certificate** to further develop my expertise in **threat detection, network security, and ethical hacking**.
 
+🛠 Projects
+
+🔹 Linux File Permissions & Security
+📌 <a href="https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md" target="_blank">GitHub Repository</a>
+
+
+Developed a hands-on cybersecurity project focused on Linux file permissions, access control, and system security. Explored user roles, permission structures (rwx), and privilege escalation to strengthen understanding of Linux security best practices.
+
+
+
+
 ---
 
 ## **📫 Let's Connect!**  
