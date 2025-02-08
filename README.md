@@ -41,8 +41,12 @@ Python 3 course <a href="https://www.linkedin.com/in/khadim-diop-9716802b1/detai
 
 🛠 Projects
 
-🔹 Linux File Permissions & Security
-📌 <a href="https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md" target="_blank">GitHub Repository</a>
+🔹 Linux File Permissions & Security  
+📌 <a href="https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md" target="_blank">GitHub Repository</a>  
+
+[🔍 Security Log Analysis](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md)
+
+
 
 
 Developed a hands-on cybersecurity project focused on Linux file permissions, access control, and system security. Explored user roles, permission structures (rwx), and privilege escalation to strengthen understanding of Linux security best practices.
