@@ -2,11 +2,15 @@
 
 <a href="https://www.linkedin.com/in/khadim-diop-9716802b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" alt="LinkedIn Profile">
-</a>
+</a>  
+
+---
 
 ## 🚀 **Aspiring Cybersecurity Analyst | Former U.S. Marine | Computer Science Student**  
 
-I am a **second-year Computer Science student** in **Seattle Central College**, currently pursuing the **Google Cybersecurity Certificate** to strengthen my expertise in **threat detection, network security, and incident response**. My goal is to become a **Cybersecurity Analyst**, leveraging my knowledge in **Linux security, file permissions, and system protection** to **safeguard digital assets and mitigate cyber threats**.  
+I am a **second-year Computer Science student** at **Seattle Central College**, currently pursuing the **Google Cybersecurity Certificate** to strengthen my expertise in **threat detection, network security, and incident response**.  
+
+My goal is to become a **Cybersecurity Analyst**, leveraging my knowledge in **Linux security, file permissions, and system protection** to **safeguard digital assets and mitigate cyber threats**.  
 
 ---
 
@@ -15,7 +19,7 @@ I am a **second-year Computer Science student** in **Seattle Central College**, 
 ### **United States Marine Corps | Administrative Specialist & Mortarman (MOS 0111 | 0341)**  
 📍 **Camp Lejeune, NC** | 🗓 **2019 - 2023 (4 years)**  
 
-As a **U.S. Marine Corps veteran with 4 years of service**, I developed **strong leadership, analytical, and problem-solving skills**, which directly translate into **cybersecurity and IT operations**. My experience spans **administrative security, tactical operations, and process optimization**.
+As a **U.S. Marine Corps veteran**, I developed **leadership, analytical thinking, and problem-solving skills**, which directly apply to **cybersecurity and IT operations**. My experience spans **administrative security, tactical operations, and process optimization**.
 
 ### **🔹 Key Responsibilities & Achievements:**  
 ✔️ **Cybersecurity & Data Security Awareness** – Maintained and secured sensitive **personnel records**, ensuring **accuracy and compliance** with military regulations.  
@@ -32,37 +36,70 @@ As a **U.S. Marine Corps veteran with 4 years of service**, I developed **strong
 ✅ **Database Management & Record-Keeping**  
 ✅ **Leadership, Adaptability & Tactical Decision-Making**  
 
-My experience in **handling sensitive data, ensuring compliance, and optimizing workflows** has strengthened my passion for **cybersecurity, risk management, and software development**. I am now applying these skills in my transition to the **cybersecurity field**, pursuing the **Google Cybersecurity Certificate** to further develop my expertise in **threat detection, network security, and ethical hacking**.
+I am now applying these skills in my transition to the **cybersecurity field**, currently working on **hands-on security projects** and pursuing the **Google Cybersecurity Certificate** to enhance my knowledge in **threat detection, network security, and ethical hacking**.
 
-🎓 Licenses & Certifications
-📜 Codecademy Certifications:
-Python 3 course <a href="https://www.linkedin.com/in/khadim-diop-9716802b1/details/certifications/" target="_blank">View Certifications</a>
+---
 
+## **📜 Licenses & Certifications**  
 
-🛠 Projects
+📜 **Codecademy Certifications:**  
+- [Python 3 Course](https://www.linkedin.com/in/khadim-diop-9716802b1/details/certifications/)  
 
-🔹 Linux File Permissions & Security  
-📌 <a href="https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md" target="_blank">GitHub Repository</a>  
+---
 
-[🔍 Security Log Analysis](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md)
+## **🛡️ My Cybersecurity Projects**  
 
+### 🔹 **Linux File Permissions & Security**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md)  
 
+Developed a **hands-on cybersecurity project** focused on **Linux file permissions, access control, and system security**. Explored **user roles, permission structures (rwx), and privilege escalation** to strengthen understanding of **Linux security best practices**.
 
+### 🔹 **Security Log Analysis**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md)  
 
-Developed a hands-on cybersecurity project focused on Linux file permissions, access control, and system security. Explored user roles, permission structures (rwx), and privilege escalation to strengthen understanding of Linux security best practices.
+### 🔹 **Network Asset Inventory**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/network_asset_inventory/blob/main/README.md) – A **structured asset inventory** showcasing **network security best practices**.
 
+---
 
+## **🔹 Security Measures I’ve Implemented**  
 
+As I learn more about **cybersecurity**, I am applying **network security best practices** to protect my personal and home network devices.
+
+### **🔒 Network Security Enhancements**  
+- **Enabled WPA3 encryption** and **disabled WPS** to enhance router security.  
+- **Segmented my network** into **IoT, guest, and personal device VLANs** for better access control.  
+- **Disabled remote access and UPnP** to prevent unauthorized external connections.  
+
+### **🛡️ Device Protection & Data Security**  
+- **Enabled full-disk encryption** on my desktop to protect sensitive data.  
+- **Use strong, unique passwords** and **password managers** for online accounts.  
+- **Set up Two-Factor Authentication (2FA)** on my gaming and cloud storage accounts.  
+
+### **📌 Access Control & Monitoring**  
+- **Restricted guest devices** to an **isolated network** to prevent unauthorized access.  
+- **Manually check router logs** for unknown devices or unusual activity.  
+- **Keep all devices updated** by enabling **automatic software and firmware updates**.  
+
+---
+
+## 🚀 **Why This Is In My Portfolio**  
+
+This project showcases my ability to:  
+- ✅ **Document and manage network-connected devices**  
+- ✅ **Apply basic cybersecurity best practices**  
+- ✅ **Understand asset classification and risk management**  
+- ✅ **Use GitHub for cybersecurity documentation**  
+
+I plan to continue improving my security setup by exploring **firewalls, VPNs, and automated security monitoring**.  
+As I learn more, I will update this repository with **new security measures and insights**.  
 
 ---
 
 ## **📫 Let's Connect!**  
 📩 **Email:** diopk5177@gmail.com  
 🔗 **LinkedIn:** [Khadim Diop](https://www.linkedin.com/in/khadim-diop-9716802b1/)  
- 
 
 🚀 **From Military Precision to Cybersecurity Protection.** 🔒  
 
 ---
-
-
