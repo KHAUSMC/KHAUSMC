@@ -55,44 +55,11 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 Developed a **hands-on cybersecurity project** focused on **Linux file permissions, access control, and system security**. Explored **user roles, permission structures (rwx), and privilege escalation** to strengthen understanding of **Linux security best practices**.
 
 ### 🔹 **Security Log Analysis**  
-📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md)  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md) – Analyzed system logs to detect unauthorized access, suspicious activity, and potential security threats.  
+
 
 ### 🔹 **Network Asset Inventory**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/network_asset_inventory/blob/main/README.md) – A **structured asset inventory** showcasing **network security best practices**.
-
----
-
-## **🔹 Security Measures I’ve Implemented**  
-
-As I learn more about **cybersecurity**, I am applying **network security best practices** to protect my personal and home network devices.
-
-### **🔒 Network Security Enhancements**  
-- **Enabled WPA3 encryption** and **disabled WPS** to enhance router security.  
-- **Segmented my network** into **IoT, guest, and personal device VLANs** for better access control.  
-- **Disabled remote access and UPnP** to prevent unauthorized external connections.  
-
-### **🛡️ Device Protection & Data Security**  
-- **Enabled full-disk encryption** on my desktop to protect sensitive data.  
-- **Use strong, unique passwords** and **password managers** for online accounts.  
-- **Set up Two-Factor Authentication (2FA)** on my gaming and cloud storage accounts.  
-
-### **📌 Access Control & Monitoring**  
-- **Restricted guest devices** to an **isolated network** to prevent unauthorized access.  
-- **Manually check router logs** for unknown devices or unusual activity.  
-- **Keep all devices updated** by enabling **automatic software and firmware updates**.  
-
----
-
-## 🚀 **Why This Is In My Portfolio**  
-
-This project showcases my ability to:  
-- ✅ **Document and manage network-connected devices**  
-- ✅ **Apply basic cybersecurity best practices**  
-- ✅ **Understand asset classification and risk management**  
-- ✅ **Use GitHub for cybersecurity documentation**  
-
-I plan to continue improving my security setup by exploring **firewalls, VPNs, and automated security monitoring**.  
-As I learn more, I will update this repository with **new security measures and insights**.  
 
 ---
 
@@ -101,5 +68,3 @@ As I learn more, I will update this repository with **new security measures and 
 🔗 **LinkedIn:** [Khadim Diop](https://www.linkedin.com/in/khadim-diop-9716802b1/)  
 
 🚀 **From Military Precision to Cybersecurity Protection.** 🔒  
-
----
