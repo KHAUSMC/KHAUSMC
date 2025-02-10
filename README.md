@@ -10,6 +10,8 @@
 
 I am a **second-year Computer Science student** at **Seattle Central College**, currently pursuing the **Google Cybersecurity Certificate** to strengthen my expertise in **threat detection, network security, and incident response**.  
 
+🔹 **Currently working on the Google Cybersecurity Certificate to gain hands-on experience in security monitoring, incident response, and risk management.**  
+
 My goal is to become a **Cybersecurity Analyst**, leveraging my knowledge in **Linux security, file permissions, and system protection** to **safeguard digital assets and mitigate cyber threats**.  
 
 ---
@@ -56,7 +58,6 @@ Developed a **hands-on cybersecurity project** focused on **Linux file permissio
 
 ### 🔹 **Security Log Analysis**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md) – Analyzed system logs to detect unauthorized access, suspicious activity, and potential security threats.  
-
 
 ### 🔹 **Network Asset Inventory**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/network_asset_inventory/blob/main/README.md) – A **structured asset inventory** showcasing **network security best practices**.
