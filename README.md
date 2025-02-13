@@ -51,16 +51,28 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 
 ## **🛡️ My Cybersecurity Projects**  
 
+## **🛡️ My Cybersecurity Projects**  
+
+### 🔹 **Decrypting an Encrypted Password**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Decrypting-an-encrypted-password)  
+
+Used **Linux commands, encryption techniques, and cryptographic tools** to decrypt an encrypted file. Explored **Caesar cipher decryption, OpenSSL encryption, and file system navigation** to **recover secured data**.
+
 ### 🔹 **Linux File Permissions & Security**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/linux-file-permissions/blob/main/README.md)  
 
 Developed a **hands-on cybersecurity project** focused on **Linux file permissions, access control, and system security**. Explored **user roles, permission structures (rwx), and privilege escalation** to strengthen understanding of **Linux security best practices**.
 
 ### 🔹 **Security Log Analysis**  
-📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md) – Analyzed system logs to detect unauthorized access, suspicious activity, and potential security threats.  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Security-Log-Analysis/blob/main/README.md)  
+
+Analyzed system logs to detect unauthorized access, suspicious activity, and potential security threats.  
 
 ### 🔹 **Network Asset Inventory**  
-📌 [GitHub Repository](https://github.com/KHAUSMC/network_asset_inventory/blob/main/README.md) – A **structured asset inventory** showcasing **network security best practices**.
+📌 [GitHub Repository](https://github.com/KHAUSMC/network_asset_inventory/blob/main/README.md)  
+
+A **structured asset inventory** showcasing **network security best practices**.
+
 
 ---
 
