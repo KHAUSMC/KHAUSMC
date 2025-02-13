@@ -51,8 +51,6 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 
 ## **🛡️ My Cybersecurity Projects**  
 
-## **🛡️ My Cybersecurity Projects**  
-
 ### 🔹 **Decrypting an Encrypted Password**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/Decrypting-an-encrypted-password)  
 
@@ -73,6 +71,10 @@ Analyzed system logs to detect unauthorized access, suspicious activity, and pot
 
 A **structured asset inventory** showcasing **network security best practices**.
 
+### 🔹 **File Hashing Lab**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/File-Hashing/blob/main/README.md)  
+
+A project demonstrating file integrity verification using hashing techniques.
 
 ---
 
@@ -80,4 +82,4 @@ A **structured asset inventory** showcasing **network security best practices**.
 📩 **Email:** diopk5177@gmail.com  
 🔗 **LinkedIn:** [Khadim Diop](https://www.linkedin.com/in/khadim-diop-9716802b1/)  
 
-🚀 **From Military Precision to Cybersecurity Protection.** 🔒  
+🚀 **From Military Precision to Cybersecurity Protection.** 🔒
