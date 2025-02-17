@@ -76,6 +76,11 @@ A **structured asset inventory** showcasing **network security best practices**.
 
 A project demonstrating file integrity verification using hashing techniques.
 
+### 🔹 **Network Traffic Analysis with Wireshark**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/network-traffic-analysis-with-wireshark/blob/main/README.md)  
+
+Used **Wireshark** to analyze **network packet captures**, identify **malicious traffic patterns**, and apply **filters** to isolate **specific network activities**.
+
 ---
 
 ## **📫 Let's Connect!**  
