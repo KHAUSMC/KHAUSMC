@@ -81,6 +81,11 @@ A project demonstrating file integrity verification using hashing techniques.
 
 Used **Wireshark** to analyze **network packet captures**, identify **malicious traffic patterns**, and apply **filters** to isolate **specific network activities**.
 
+### 🔹 **Network Packet Capture**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Network-packet-capture/blob/main/README.md)  
+
+Captured and analyzed **network packets** to identify suspicious activities, unauthorized access, and potential cyber threats. Applied **packet filtering techniques and deep packet inspection** to enhance **network security monitoring**.
+
 ---
 
 ## **📫 Let's Connect!**  
