@@ -51,6 +51,11 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 
 ## **🛡️ My Cybersecurity Projects**  
 
+### 🔹 **Suricata Rule Analysis**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/suricata-rule-analysis)  
+
+Analyzed network traffic and threat signatures using **Suricata IDS/IPS**. Developed **custom Suricata rules** to detect and mitigate potential cyber threats, enhancing **network security monitoring**.
+
 ### 🔹 **Decrypting an Encrypted Password**  
 📌 [GitHub Repository](https://github.com/KHAUSMC/Decrypting-an-encrypted-password)  
 
