@@ -91,6 +91,11 @@ Used **Wireshark** to analyze **network packet captures**, identify **malicious 
 
 Captured and analyzed **network packets** to identify suspicious activities, unauthorized access, and potential cyber threats. Applied **packet filtering techniques and deep packet inspection** to enhance **network security monitoring**.
 
+### 🔹 **IP Filter Project**  
+📌 [GitHub Repository](https://github.com/KHAUSMC/Ip-Filter-Project)  
+
+Developed an **IP filtering system** to monitor and control **network traffic** based on predefined security rules. Implemented **firewall-like filtering mechanisms** to **block malicious IPs and safeguard system integrity**.
+
 ---
 
 ## **📫 Let's Connect!**  
