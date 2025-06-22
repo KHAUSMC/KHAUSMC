@@ -54,6 +54,13 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 ### 🔍 **Python Port Scanner**  
 A basic **network port scanner** built in **Python** that checks for open ports on a given IP address. Demonstrates core concepts in **network security, socket programming**, and **port enumeration**.  
 🔗 [View Project on GitHub](https://github.com/KHAUSMC/port-scanner/blob/main/scanner.py)
+
+### 🧠 **Phisher AI – Phishing Email Detector**  
+A collaborative project built with two peers that uses **AI and natural language processing (NLP)** to analyze and detect phishing emails. Users paste email content into a form, and the app returns a **confidence score** indicating the likelihood of phishing.  
+
+🌐 [Try the Live App](https://phiser-ai-v2.vercel.app)  
+🔒 Focus: **Phishing Detection**, **AI/NLP**, **Cybersecurity Awareness**
+
   
 
 
