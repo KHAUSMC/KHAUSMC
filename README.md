@@ -67,6 +67,13 @@ A command-line tool written in **Python** that filters a list of IP addresses ba
 🔗 [View Project on GitHub](https://github.com/KHAUSMC/Ip-Filter-Project)  
 🛠️ Focus: **Network Forensics**, **Python Scripting**, **Log Filtering**
 
+### 🧾 **Home Network Asset Inventory**  
+This project documents the devices on my home network and applies basic cybersecurity principles such as **asset management**, **access control**, and **security classification**.
+
+I created this repository to strengthen my skills in **risk assessment**, **network documentation**, and **data protection** by identifying each device’s role, ownership, location, and associated security risks.
+
+🔗 [View Project on GitHub](https://github.com/KHAUSMC/network_asset_inventory)  
+
 
   
 
