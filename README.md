@@ -44,8 +44,11 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 
 ## **📜 Licenses & Certifications**  
 
-📜 **Codecademy Certifications:**  
-- [Python 3 Course](https://www.linkedin.com/in/khadim-diop-9716802b1/details/certifications/)  
+**Codecademy Certifications:**  
+- [Python 3 Course](https://www.linkedin.com/in/khadim-diop-9716802b1/details/certifications/)
+
+ **compTIA Certifications:**
+ - [Security+](https://www.credly.com/earner/dashboard)
 
 ---
 
