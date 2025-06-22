@@ -8,11 +8,12 @@
 
 ## 🚀 **Aspiring Cybersecurity Analyst | Former U.S. Marine | Computer Science Student**  
 
-I am a **second-year Computer Science student** at **Seattle Central College**, currently pursuing the **Google Cybersecurity Certificate** to strengthen my expertise in **threat detection, network security, and incident response**.  
+I am a **second-year Computer Science student** at **Seattle Central College**, with a strong foundation in **threat detection, network security, and incident response**.  
 
-🔹 **Currently working on the Google Cybersecurity Certificate to gain hands-on experience in security monitoring, incident response, and risk management.**  
+🔹 **Certified in both the Google Cybersecurity Certificate and CompTIA Security+**, I've gained hands-on experience in **security monitoring, incident response, risk management**, and **system hardening**.  
 
-My goal is to become a **Cybersecurity Analyst**, leveraging my knowledge in **Linux security, file permissions, and system protection** to **safeguard digital assets and mitigate cyber threats**.  
+My goal is to become a **Cybersecurity Analyst**, leveraging my knowledge in **Linux security, file permissions, and system protection** to **safeguard digital assets and mitigate cyber threats**.
+ 
 
 ---
 
