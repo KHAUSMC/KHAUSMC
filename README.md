@@ -51,6 +51,11 @@ I am now applying these skills in my transition to the **cybersecurity field**, 
 
 ## **🛡️ My Cybersecurity Projects**  
 
+### 🔍 **Python Port Scanner**  
+A basic **network port scanner** built in **Python** that checks for open ports on a given IP address. Demonstrates core concepts in **network security, socket programming**, and **port enumeration**.  
+🔗 [View Project on GitHub](https://github.com/KHAUSMC/port-scanner/blob/main/scanner.py)
+  
+
 
 ---
 
