@@ -61,6 +61,13 @@ A collaborative project built with two peers that uses **AI and natural language
 🌐 [Try the Live App](https://phiser-ai-v2.vercel.app)  
 🔒 Focus: **Phishing Detection**, **AI/NLP**, **Cybersecurity Awareness**
 
+### 🌐 **IP Filter Tool**  
+A command-line tool written in **Python** that filters a list of IP addresses based on user-defined criteria. Useful for **log analysis**, **network traffic filtering**, and **incident response** tasks.  
+
+🔗 [View Project on GitHub](https://github.com/KHAUSMC/Ip-Filter-Project)  
+🛠️ Focus: **Network Forensics**, **Python Scripting**, **Log Filtering**
+
+
   
 
 
